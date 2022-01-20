@@ -4,6 +4,11 @@ html * {
     font-family: 'Open Sans', sans-serif;
 }
 
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 h4 {
     font-size: 1.125rem;
     line-height: 1rem;

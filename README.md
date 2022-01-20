@@ -1,19 +1,10 @@
 # github-metrics
 
-## Project setup
-```
-npm install
-```
+This is my CSU33031 GitHub Commits API Visualiser.
+To set up the project, first run
+``` npm install ```
+to install required dependencies.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Following this, run
+``` npm run serve ```
+to compile the code and run it locally.

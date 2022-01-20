@@ -1,14 +1,14 @@
 <template>
-  <CHome />
+  <CDashboard/>
 </template>
 
 <script>
-import CHome from '@/views/Home.vue'
+import CDashboard from '@/views/Dashboard.vue'
 
 export default {
   name: 'App',
   components: {
-    CHome
+    CDashboard
   }
 }
 </script>
